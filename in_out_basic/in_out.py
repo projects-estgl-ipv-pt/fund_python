@@ -10,6 +10,8 @@ print('Introduziu', b, ' para b')
 # output the result of addition here
 print(a, '+',b, '=', a +b)
 # output the result of subtraction here
+print(a, '-',b, '=', a - b)
+
 # output the result of multiplication here
 # output the result of division here
 
